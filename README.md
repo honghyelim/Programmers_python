@@ -1,6 +1,7 @@
 # Programmers_python
 
 ## level1
+[풀이보러가기](https://github.com/honghyelim/Programmers_python/blob/main/programmers_1.ipynb)
 
 1. 2016년
 2. 완주하지 못한 선수
